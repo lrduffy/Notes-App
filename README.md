@@ -103,5 +103,5 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## 📬 Contact
 
-Created by [@lrduffy](https://github.com/lrduffy)
-Project URL: https://github.com/lrduffy/Notes-App
+Created by [@lrdluffy](https://github.com/lrdluffy)
+Project URL: https://github.com/lrdluffy/Notes-App
